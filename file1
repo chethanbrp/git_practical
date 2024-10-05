@@ -2,5 +2,6 @@ class chethan{
 	public static void main(String []args)
 	{
 	System.out.println("update java code in git");
+	System.out.println("pull, then edited in mumbai region");
 	}
 }
